@@ -1,5 +1,5 @@
 <?php
-class BigInteger {
+class largeInt {
  private $ana;
  private $ilave;
  function __construct(string $rakam='0') {
